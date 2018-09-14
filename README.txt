@@ -1,1 +1,1 @@
-Thanks for reading
+Analyzing murders in USA, practicing R and Rstudio
